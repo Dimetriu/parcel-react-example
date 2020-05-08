@@ -1,0 +1,7 @@
+{
+  "transformers": {
+    "*.js": ["@parcel/transformer-babel"],
+    "*.css": ["@parcel/transformer-postcss"],
+    "*.html": ["@parcel/transformer-posthtml"]
+  },
+}
